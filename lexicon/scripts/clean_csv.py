@@ -31,4 +31,4 @@ def clean_csv(input_file: str, output_file: str):
             print(f"  Line {rnum}: {rdata}")
 
 # Example usage:
-clean_csv("lexicon/dataset.csv", "lexicon/dataset_clean.csv")
+clean_csv("dataset.csv", "dataset_clean.csv")

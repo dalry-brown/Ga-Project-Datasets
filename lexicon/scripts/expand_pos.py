@@ -159,4 +159,4 @@ def expand_csv(input_file: str, output_file: str):
     print(f"✅ Expanded file saved as: {output_file}")
 
 # Example usage:
-expand_csv("lexicon/dataset.csv", "lexicon/dataset_expanded.csv")
+expand_csv("dataset.csv", "dataset_expanded.csv")
